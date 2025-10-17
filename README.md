@@ -35,9 +35,9 @@ Hi there! 👋 I’m **Sam** – a **full-stack Frappe Developer** with a passio
 ---
 
 ## 📊 GitHub Stats
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
+![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devv-5&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-5&layout=compact&theme=radical)
 
 ---
 
