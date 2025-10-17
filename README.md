@@ -1,16 +1,17 @@
 # 🎯 Sam | Frappe Developer & Web/UI-UX Explorer
 
-Hi there! 👋 I’m **Sam** – a **full-stack Frappe Developer** with a passion for building **ERPNext solutions**, **scalable web apps**, and **stunning user experiences**. I love blending **backend logic** with **frontend magic** to create applications that just work… beautifully.  
+Hey there! 👋 I’m **Sam**, a **full-stack Frappe Developer** with a passion for **ERPNext solutions**, **scalable web apps**, and **beautiful user experiences**.  
+I love blending **backend wizardry** with **frontend magic** to create apps that work flawlessly… and look stunning while doing it. ✨
 
 ---
 
 ## 🚀 About Me
-- 🔹 **Frappe & ERPNext Expert:** Custom apps, reports, dashboards, and print formats.  
+- 🔹 **Frappe & ERPNext Expert:** Custom apps, advanced dashboards, stock & BOM reports, print formats.  
 - 🔹 **Frontend & UI/UX Enthusiast:** React, Next.js, HTML/CSS, Tailwind, framer-motion, shadcn/ui.  
-- 🔹 **Backend Magic:** Python, TypeScript, JavaScript, robust APIs, and business logic.  
-- 🔹 **Problem Solver:** Turning complex workflows into smooth, automated solutions.  
+- 🔹 **Backend Magic:** Python, TypeScript, JavaScript, APIs, complex business logic.  
+- 🔹 **Problem Solver:** Turning messy workflows into smooth, automated processes.  
 
-> “I code to create clarity in chaos, and design experiences that users actually enjoy.” 🎨💻  
+> “I code to create clarity in chaos and craft experiences users actually love.” 🎨💻  
 
 ---
 
@@ -35,32 +36,34 @@ Hi there! 👋 I’m **Sam** – a **full-stack Frappe Developer** with a passio
 ---
 
 ## 📊 GitHub Stats
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devv-5&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-5&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devv-5&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" alt="Sam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devv-5&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🌟 Projects & Contributions
-- **Custom ERPNext Apps:** Advanced PO tools, stock reports, delegation workflows, BOM logic, print formats.  
-- **Web Platforms:** CMS modules, dynamic dashboards, and interactive client portals.  
-- **UI/UX Designs:** Intuitive dashboards, reports, and seamless user journeys.  
+- 🚀 **Custom ERPNext Apps:** Advanced PO tools, delegation workflows, stock reports, BOM logic, print formats.  
+- 🌐 **Web Platforms:** CMS modules, dynamic dashboards, interactive client portals.  
+- 🎨 **UI/UX Designs:** Clean dashboards, reports, and seamless user journeys.  
 
-> “I aim to bridge business logic and design perfection—every pixel, every function counts.”  
+> “I bridge business logic and design perfection—every pixel, every function counts.”  
 
 ---
 
 ## ⚡ Fun & Personality
-- Cricket lover 🏏, Sufi music fan 🎵  
-- Always learning, always experimenting 🔬  
-- Enjoy tackling **real-world business problems** with **elegant code solutions**  
+- 🏏 Cricket lover  
+- 🎵 Sufi music fan  
+- 🔬 Always learning, experimenting, and pushing limits  
+- 💡 Solving real-world business problems with elegant code  
 
 ---
 
 ## 🔗 Connect with Me
-- Personal site: [abdus.site](https://abdus.site)  
-- Social links coming soon… but keep your eyes peeled 👀  
+- 🌐 Personal site: [abdus.site](https://abdus.site)  
+- 🔜 Social links coming soon… stay tuned!  
 
 ---
 
-> “Code hard. Design smart. Play cricket.” 🏏💻🎨
+> 💬 *“Code hard. Design smart. Play cricket.”* 🏏💻🎨
